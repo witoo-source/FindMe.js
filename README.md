@@ -1,6 +1,6 @@
 # Guia de uso:
 
-# Primero: instala las dependencias con:
+# 1: instala las dependencias con:
 
 macOS:
 
@@ -11,13 +11,13 @@ Windows:
 ![Captura de pantalla 2023-11-01 151146](https://github.com/witoo-source/FindMe.js/assets/133872532/13703789-9884-4e21-9747-7654e6e0f4d4)
 
 
-# Segundo, ve a https://ipinfo.io y registrate (es gratis) 
+# 2, ve a https://ipinfo.io y registrate (es gratis) 
 
 Luego busca un apartado donde diga "Token" y guardalo: 
 
 ![Captura de pantalla 2023-11-01 a las 15 15 27](https://github.com/witoo-source/FindMe.js/assets/133872532/eed1bfca-ce13-4af8-847f-047166a67fea)
 
-# Tercero, abre la Terminal y navega hacia el directorio donde hayas descargado este repositorio mediante el uso de "cd":
+# 3, abre la Terminal y navega hacia el directorio donde hayas descargado este repositorio mediante el uso de "cd":
 
  Probablemente, lo tengas en descargas asi que seria de la siguiente manera =>
 
@@ -35,7 +35,7 @@ Luego busca un apartado donde diga "Token" y guardalo:
 
 ![Captura de pantalla 2023-11-01 a las 15 38 24](https://github.com/witoo-source/FindMe.js/assets/133872532/9aff9c85-9181-478b-bda7-bc65a751a851)
 
-# Cuarto, ejecuta el script junto a la IP Objetivo (SOLO IPs PUBLICAS, NO PRIVADAS) y el token que generaste anteriormente:
+# 4, ejecuta el script junto a la IP Objetivo (SOLO IPs PUBLICAS, NO PRIVADAS) y el token que generaste anteriormente:
 
 macOS:
 ![Captura de pantalla 2023-11-01 a las 14 52 36](https://github.com/witoo-source/FindMe.js/assets/133872532/6d9b0bbf-fcf9-4615-bdd5-ebcd7dde9f76)
