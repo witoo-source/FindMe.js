@@ -5,9 +5,11 @@ Guia de uso:
 # Primero: instala las dependencias con:
 
 macOS:
+
 ![Captura de pantalla 2023-11-01 a las 15 07 46](https://github.com/witoo-source/FindMe.js/assets/133872532/b6d55d7d-514b-4b03-9403-61512abded12)
 
 Windows: 
+
 ![Captura de pantalla 2023-11-01 151146](https://github.com/witoo-source/FindMe.js/assets/133872532/13703789-9884-4e21-9747-7654e6e0f4d4)
 
 
@@ -18,12 +20,15 @@ Luego busca un apartado donde diga "Token" y guardalo:
 ![Captura de pantalla 2023-11-01 a las 15 15 27](https://github.com/witoo-source/FindMe.js/assets/133872532/eed1bfca-ce13-4af8-847f-047166a67fea)
 
 # Tercero, abre la Terminal y navega hacia el directorio donde hayas descargado este repositorio mediante el uso de "cd":
- *Probablemente, lo tengas en descargas asi que seria de la siguiente manera => *
+
+ Probablemente, lo tengas en descargas asi que seria de la siguiente manera =>
 
  macOS:
+ 
  ![Captura de pantalla 2023-11-01 a las 15 24 52](https://github.com/witoo-source/FindMe.js/assets/133872532/5348f88d-a545-478a-8cc1-8459d083a45d)
 
  Windows:
+ 
  ![Captura de pantalla 2023-11-01 153532](https://github.com/witoo-source/FindMe.js/assets/133872532/024cbe73-b1a8-4d62-b2b1-0c867f820bb1)
 
  (Opcional* Usa "pwd" para verificar que el directorio ha cambiado)
