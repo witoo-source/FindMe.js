@@ -1,6 +1,4 @@
-# FindMe.js
-
-Guia de uso:
+# Guia de uso:
 
 # Primero: instala las dependencias con:
 
